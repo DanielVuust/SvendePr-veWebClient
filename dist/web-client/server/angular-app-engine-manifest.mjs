@@ -2,9 +2,9 @@
 export default {
   basePath: '/',
   supportedLocales: {
-  "da": "da"
+  "en": "en"
 },
   entryPoints: {
-    'da': () => import('./da/main.server.mjs')
+    'en': () => import('./en/main.server.mjs')
   },
 };

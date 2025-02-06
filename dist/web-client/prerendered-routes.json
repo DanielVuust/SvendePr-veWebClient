@@ -1,10 +1,11 @@
 {
   "routes": {
-    "/da": {},
-    "/da/dahsboard": {},
-    "/da/login": {},
-    "/da/profile": {},
-    "/da/register": {},
-    "/da/taskList": {}
+    "/en": {},
+    "/en/dashboard": {},
+    "/en/login": {},
+    "/en/profile": {},
+    "/en/register": {},
+    "/en/taskList": {},
+    "/en/verify-email": {}
   }
 }

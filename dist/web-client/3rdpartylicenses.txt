@@ -335,6 +335,11 @@ https://github.com/cartant/rxjs-etc by Nicholas Jamieson, MIT licensed. See the
 file header for details.
 
 --------------------------------------------------------------------------------
+Package: @microsoft/signalr
+License: "MIT"
+
+
+--------------------------------------------------------------------------------
 Package: @ngrx/store-devtools
 License: "MIT"
 
