@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/da": {},
+    "/da/dahsboard": {},
+    "/da/login": {},
+    "/da/profile": {},
+    "/da/register": {},
+    "/da/taskList": {}
+  }
+}
